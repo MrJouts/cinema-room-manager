@@ -33,6 +33,18 @@
       <module name="Cinema_Room_Manager.Topics-Ranges-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Within_a_range.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Within_both_ranges.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Adding_lists.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Adding_values.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Changing_the_existing_values.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Editing_and_recreating.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Empty.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Guard_On_The_Gate.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Help_the_Lord_Commander.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Initialization.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Playing_with_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Printing_a_list.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Yet_another_list.main" target="11" />
       <module name="Cinema_Room_Manager.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>

@@ -42,6 +42,18 @@
             <option value="$PROJECT_DIR$/Topics/Ranges/Theory" />
             <option value="$PROJECT_DIR$/Topics/Ranges/Within a range" />
             <option value="$PROJECT_DIR$/Topics/Ranges/Within both ranges" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Adding lists" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Adding values" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Changing the existing values" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Editing and recreating" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Empty" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Guard On The Gate" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Help the Lord Commander" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Initialization" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Playing with numbers" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Printing a list" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Yet another list" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
