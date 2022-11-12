@@ -10,6 +10,18 @@
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Comment_some_lines.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Comment_syntax.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Find_the_correct_comment.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Hello,_Kotlin.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Incorrect_comment.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Incorrect_comments.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Printing_only_the_longest_line.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-The_countdown.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Uncomment_some_lines.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Unused_comments.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Circular_shift.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Count_occurrences.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-For_loops_task.main" target="11" />
