@@ -36,6 +36,14 @@
       <module name="Cinema_Room_Manager.Topics-For_loop_and_ranges-The_sum_of_integers_from_a_to_b.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_ranges-The_sum_of_N_numbers.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_ranges-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Corners.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Correct_statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Cube_of_zeros.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Indexing_rules.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Kotlin_lists.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Practical_applications.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Shapeshifter.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-At_least_one.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Between_two_numbers.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Check_the_value.main" target="11" />
