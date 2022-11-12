@@ -1,7 +1,7 @@
 package cinema
 
 fun main() {
-    var income = 0;
+    var ticketPrice = 0;
     val TICKET_PRICE = 10
     val TICKET_CHEAP_PRICE = 8
 
@@ -11,16 +11,53 @@ fun main() {
     println("Enter the number of seats in each row:")
     val seats = readln().toInt()
 
-    if (rows * seats <= 60) {
-        income = rows * seats * TICKET_PRICE
-    } else {
-        if (rows % 2 == 0) {
-            income = rows / 2 * seats * TICKET_PRICE + rows / 2 * seats * TICKET_CHEAP_PRICE
-        } else {
-            income = rows / 2 * seats * TICKET_PRICE + (rows / 2 + 1) * seats * TICKET_CHEAP_PRICE
+    val room = mutableListOf<MutableList<Any>>()
+
+    for (i in 0..rows) {
+        val rowList = mutableListOf<Any>()
+
+        if (i == 0) rowList.add(' ') else rowList.add(i)
+
+        for(j in 1..seats) {
+            if (i == 0) rowList.add(j) else rowList.add('S')
         }
+
+        room.add(rowList)
     }
 
-    println("Total income:")
-    println("$$income")
+    println("Cinema:")
+    for (row in room) {
+        for (seat in row) {
+            print("$seat ")
+        }
+        println()
+    }
+    println("")
+
+    println("Enter a row number:")
+    val selectedRow = readln().toInt()
+
+    println("Enter a seat number in that row:")
+    val selectedSeat = readln().toInt()
+
+    if (rows * seats <= 60) {
+        ticketPrice = TICKET_PRICE
+    } else {
+        if (selectedRow > rows / 2 ) {
+            ticketPrice = TICKET_CHEAP_PRICE
+        } else ticketPrice = TICKET_PRICE
+    }
+
+    println("Ticket price: $$ticketPrice")
+    println("")
+
+    room[selectedRow][selectedSeat] = 'B'
+
+    println("Cinema:")
+    for (row in room) {
+        for (seat in row) {
+            print("$seat ")
+        }
+        println()
+    }
 }
