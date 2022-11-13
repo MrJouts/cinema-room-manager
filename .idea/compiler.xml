@@ -10,6 +10,16 @@
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
       <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-Follow_the_conventions.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-Make_the_code_follow_the_conventions.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-Options_of_code_conventions.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-Statements__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-The_rules_of_coding.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-Violation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-Which_is_better.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Coding_style_conventions-Which_program_follows_the_conventions.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Comments-Comment_some_lines.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Comments-Comment_syntax.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Comments-Find_the_correct_comment.main" target="11" />

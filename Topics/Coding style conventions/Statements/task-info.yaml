@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: According to the conventions, you must name the entry point of your program
+    as <b>main</b>.
+- text: Do not omit semicolons even if they are optional.
+- text: Put opening curly braces at the end of the line where the block begins. Closing
+    brace are inserted at the start of the next separate line.
+- text: It is better to use tabs for indentation.
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4436#comment
+status: Solved
+record: -1
+local_check: false
