@@ -32,6 +32,18 @@
       <module name="Cinema_Room_Manager.Topics-Comments-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Comments-Uncomment_some_lines.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Comments-Unused_comments.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Comparing_sums.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Division.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Get_last_digit.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-How_to_declare_a_function.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Parameters.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Return_type.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Right_equation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-The_square_of_a_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-The_sum_of_three_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Vowel_or_not.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-What_should_be_specified.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Circular_shift.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Count_occurrences.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-For_loops_task.main" target="11" />
