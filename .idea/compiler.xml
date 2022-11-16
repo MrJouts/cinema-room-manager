@@ -88,6 +88,21 @@
       <module name="Cinema_Room_Manager.Topics-Ranges-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Within_a_range.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Within_both_ranges.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-A_simple_calculator.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-Direction.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-Find_the_output.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-Find_the_output__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-Floor-space_of_the_room.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-From_string_to_a_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-FTN-Numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-Harry_Potter.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-Just_checking.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-Shape.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-String_processor.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-Strings_as_objects.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-The_army_of_units.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-The_number_of_digits.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-When_expression-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Adding_lists.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Adding_values.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Work_with_MutableLists-Changing_the_existing_values.main" target="11" />
