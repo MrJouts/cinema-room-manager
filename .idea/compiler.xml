@@ -79,6 +79,14 @@
       <module name="Cinema_Room_Manager.Topics-For_loop_and_ranges-The_sum_of_integers_from_a_to_b.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_ranges-The_sum_of_N_numbers.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-For_loop_and_ranges-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-ArithmeticException.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-Fix_the_code.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-Hierarchy_overview.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-IndexOutOfBoundsException.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-NumberFormat.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-RuntimeException.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Hierarchy_of_exceptions-What_is_Throwable.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Corners.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Correct_statements.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Cube_of_zeros.main" target="11" />
@@ -97,6 +105,13 @@
       <module name="Cinema_Room_Manager.Topics-Ranges-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Within_a_range.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Within_both_ranges.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Behavior_of_an_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Cause_an_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Time_for_exceptions.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-What_do_you_know_about_a_stack_trace.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-What_is_a_stack_trace.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-What_is_an_exception.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-When_expression-A_simple_calculator.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-When_expression-Direction.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-When_expression-Find_the_output.main" target="11" />
