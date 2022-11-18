@@ -105,6 +105,18 @@
       <module name="Cinema_Room_Manager.Topics-Ranges-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Within_a_range.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Ranges-Within_both_ranges.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-A_winning_car.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Crash_a_program.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Dividing_by_zero.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Exception_into_a_variable.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_arithmetic_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_number_format_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_string_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Practice.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Print_correct_exception_message.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-The_purpose_of_exceptions.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Too_big_for_us.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Behavior_of_an_exception.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Cause_an_exception.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Theory.main" target="11" />
