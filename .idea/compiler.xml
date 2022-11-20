@@ -117,6 +117,18 @@
       <module name="Cinema_Room_Manager.Topics-Taming_exceptions-The_purpose_of_exceptions.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Too_big_for_us.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Braking_distance.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Converter_to_Double.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_code.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Exception_message.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Handling_strings.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Integer_division.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Message_in_an_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Now_I_get_it.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-One_and_the_only_one.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Usage.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Behavior_of_an_exception.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Cause_an_exception.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Theory.main" target="11" />
