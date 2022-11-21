@@ -117,6 +117,8 @@
       <module name="Cinema_Room_Manager.Topics-Taming_exceptions-The_purpose_of_exceptions.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Too_big_for_us.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Parting_words.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Theory.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Braking_distance.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Converter_to_Double.main" target="11" />
       <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_code.main" target="11" />
